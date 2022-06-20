@@ -185,6 +185,6 @@ Contact me for Data Science Project Collaborations
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📜 Feedback
-If you have any feedback, please reach out to us at sandeepskm13@gmail.com
+If you have any feedback, please reach out to us at 123anshbhatnagar@gmail.com
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
