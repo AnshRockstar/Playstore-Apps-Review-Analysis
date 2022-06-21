@@ -16,7 +16,7 @@ The objective of this experiment is to deliver insights to understand customer d
 <p>This Project includes 1 colab notebook, 1 technical documentation as well as 1 presentation:</p>
 
 ### Executable Files:
-- [Play Store App Review Analysis](https://github.com/San13deep/Play-Store-App-Review-Analysis/blob/main/Play_Store_App_Review_Analysis_Capstone_Project.ipynb) - Includes all functions required for clustering operations.
+- [Play Store App Review Analysis](https://github.com/AnshRockstar/Playstore-Apps-Review-Analysis/blob/main/Play_Store_App_Review_Analysis_Capstone_Project.ipynb) - Includes all functions required for clustering operations.
 
 ### Output:
 - [Google Colab](https://github.com/AnshRockstar/Playstore-Apps-Review-Analysis/blob/main/Play_Store_App_Review_Analysis_Capstone_Project.ipynb) - All the outputs are visible in the provided colab notebook.
