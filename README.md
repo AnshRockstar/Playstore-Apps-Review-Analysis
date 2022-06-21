@@ -176,7 +176,7 @@ Contact me for Data Science Project Collaborations
 *	Towards data science
 *	Python libraries documentation
 *	Data camp
-
+* Medium
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 - [Play Store App Review Analysis. [Online - almabetter.com]](https://learn.almabetter.com/courses/take/team-capstone-projects/texts/19443175-play-store-app-review-analysis)
 - [Ppt Presentation Link](https://docs.google.com/presentation/d/1wty32vK_Srb79bgYzWRM8B1FSW0gbcir/edit?usp=sharing&ouid=114282249346319555402&rtpof=true&sd=true)
